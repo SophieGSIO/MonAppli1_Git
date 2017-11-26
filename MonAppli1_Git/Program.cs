@@ -10,6 +10,8 @@ namespace MonAppli1_Git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world");
+            Console.ReadLine();
         }
     }
 }
