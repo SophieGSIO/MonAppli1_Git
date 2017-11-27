@@ -13,6 +13,7 @@ namespace MonAppli1_Git
             Console.WriteLine("Hello world");
             // instanciation d'un objet Personne
             Personne p = new Personne(1, "Martin");
+            Console.WriteLine(p.ToString());
             Console.ReadLine();
         }
     }
